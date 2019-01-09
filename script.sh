@@ -1,3 +1,1 @@
-#!/bin/bash
-cal
-ifconfig
+Welcome to Devops Training
